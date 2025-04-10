@@ -6,10 +6,12 @@
   <!-- App dependencies -->
   <ItemGroup>
     <PackageVersion Include="Akka.Cluster.TestKit" Version="1.5.39" />
+    <PackageVersion Include="coverlet.collector" Version="6.0.4" />
     <PackageVersion Include="TeamCity.ServiceMessages" Version="4.1.1" />
     <PackageVersion Include="System.CodeDom" Version="9.0.4" />
     <PackageVersion Include="System.Runtime.Loader" Version="4.3.0" />
     <PackageVersion Include="xunit.runner.utility" Version="2.8.1" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.0.2" />
   </ItemGroup>
   <!-- Test dependencies -->
   <ItemGroup>
