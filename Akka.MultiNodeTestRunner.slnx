@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/build/">
+    <File Path="build.ps1" />
+    <File Path="coverlet.runsettings" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+    <File Path="RELEASE_NOTES.md" />
+  </Folder>
+  <Project Path="src/Akka.MultiNode.RemoteHost/Akka.MultiNode.RemoteHost.csproj" />
+  <Project Path="src/Akka.MultiNode.SampleMultiNodeTests/Akka.MultiNode.SampleMultiNodeTests.csproj" />
+  <Project Path="src/Akka.MultiNode.TestAdapter.Tests/Akka.MultiNode.TestAdapter.Tests.csproj" />
+  <Project Path="src/Akka.MultiNode.TestAdapter/Akka.MultiNode.TestAdapter.csproj" />
+</Solution>
